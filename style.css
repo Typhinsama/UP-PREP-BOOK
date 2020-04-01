@@ -1,0 +1,53 @@
+#title{
+  text-align: center;
+    color: white;
+      background-color: green;
+  font-family: verdana
+}
+
+#wrapper{
+  background: url('https://cdn.glitch.com/4b1b571b-acee-48f1-bd76-be99e89b7d5a%2FCapture.PNG?v=1585186474209');
+  background-size: cover;
+  background-repeat: no repeat;
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gird-emplate-row: 500px;
+  grid-gap: 10px;
+  justify-items: center
+}
+
+#pic{
+  width: 100%
+}
+
+#back{
+  text-family:verdana;
+  color: green;
+  background-color: black
+}
+
+#next{
+  text-family:verdana;
+color: green;
+  background-color: black
+}
+#name{
+  font-size: 50px;
+  COLOR:GREEN;
+  background-color: white
+}
+#quote{
+  font-size: 30px;
+  COLOR:white;
+  background-color: green
+}
+#superlative{
+  font-size: 30px;
+  COLOR:GREEN;
+  background-color: white
+}
+
+#random{
+  color: green;
+  background-color: black
+}
